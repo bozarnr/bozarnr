@@ -18,7 +18,7 @@ The theme across these repos is simple: generate ideas, test them with time-safe
 | Repository | CI | Baseline |
 |---|---|---|
 | AI-Alpha-Research-Lab | [![test](https://github.com/bozarnr/AI-Alpha-Research-Lab/actions/workflows/test.yml/badge.svg)](https://github.com/bozarnr/AI-Alpha-Research-Lab/actions/workflows/test.yml) | [v0.1.0](https://github.com/bozarnr/AI-Alpha-Research-Lab/releases/tag/v0.1.0) |
-| Paper-Alpha-Replications | [![verify-replication-cards](https://github.com/bozarnr/Paper-Alpha-Replications/actions/workflows/test.yml/badge.svg)](https://github.com/bozarnr/Paper-Alpha-Replications/actions/workflows/test.yml) | [v0.1.0](https://github.com/bozarnr/Paper-Alpha-Replications/releases/tag/v0.1.0) |
+| Paper-Alpha-Replications | [![verify-replication-cards](https://github.com/bozarnr/Paper-Alpha-Replications/actions/workflows/test.yml/badge.svg)](https://github.com/bozarnr/Paper-Alpha-Replications/actions/workflows/test.yml) | [v0.1.0](https://github.com/bozarnr/Paper-Alpha-Replications/releases/tag/v0.1.1) |
 | Quant-Research-Toolkit | [![test](https://github.com/bozarnr/Quant-Research-Toolkit/actions/workflows/test.yml/badge.svg)](https://github.com/bozarnr/Quant-Research-Toolkit/actions/workflows/test.yml) | [v0.1.0](https://github.com/bozarnr/Quant-Research-Toolkit/releases/tag/v0.1.0) |
 | Strategy-Game-Agents | [![test](https://github.com/bozarnr/Strategy-Game-Agents/actions/workflows/test.yml/badge.svg)](https://github.com/bozarnr/Strategy-Game-Agents/actions/workflows/test.yml) | [v0.1.0](https://github.com/bozarnr/Strategy-Game-Agents/releases/tag/v0.1.0) |
 
